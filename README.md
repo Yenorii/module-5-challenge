@@ -2,7 +2,7 @@
 
 I recieved help on this assignment from:
 
-Learning Assistant Sandile (@sdludla on Slack) (ask-284755) (Line )
+Learning Assistant Sandile (@sdludla on Slack) (ask-284755)
 
 "
 Module 5 Challenge
