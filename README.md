@@ -1,5 +1,9 @@
 # module-5-challenge
 
+I recieved help on this assignment from:
+
+Learning Assistant Sandile (@sdludla on Slack) (ask-284755) (Line )
+
 "
 Module 5 Challenge
 Due Monday by 11:59pm Points 100 Submitting a text entry box or a website url
